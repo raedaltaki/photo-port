@@ -6,8 +6,6 @@ import ContactForm from "./components/Contact";
 
 function App() 
 {
-  const [contactSelected, setContactSelected] = useState(false);
-
   const [categories] = useState(
   [
     {
@@ -27,7 +25,7 @@ function App()
       description: 'Fields, farmhouses, waterfalls, and the beauty of nature' 
     },
   ]);
-
+const [contactSelected, setContactSelected] = useState(false);
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
 
   return (
