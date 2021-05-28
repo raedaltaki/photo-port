@@ -19,7 +19,7 @@ Please visit our completed webpage at:  https://raedaltaki.github.io/photo-port/
 
 ## Description
 
-Photo Port is a MERN photo gallary website for a photographer that display all the photes based on their categories.
+Photo Port is a MERN photo galley website for a photographer that display all the photos based on their categories.
 
 
 ## Installation
